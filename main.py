@@ -21,5 +21,13 @@ while True:
  else:
     print("Computer wins !")
 
+ play_again = input("play again? (yes/no): ").lower()
+
+ if play_again =="no":
+   break
+
+    
+
+
 
 
